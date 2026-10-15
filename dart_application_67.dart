@@ -1,3 +1,4 @@
+// // ЗАДАНИЕ НА switchcase
 // import 'dart:io' ; void main() {
 //   // Задание номер 1 Кофемашина
 //  stdout.write('Введите желаемый напиток (espresso, cappuccino, latte, americano): ');
